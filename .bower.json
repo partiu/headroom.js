@@ -1,0 +1,42 @@
+{
+  "name": "headroom-bower",
+  "version": "0.9.5",
+  "main": [
+    "dist/headroom.js",
+    "dist/headroom.min.js",
+    "dist/jQuery.headroom.js",
+    "dist/jQuery.headroom.min.js",
+    "dist/angular.headroom.js",
+    "dist/angular.headroom.min.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "spec",
+    "Gruntfile.js",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "http://wicky.nillia.ms/headroom.js/",
+  "authors": [
+    "WickyNilliams"
+  ],
+  "description": "Hide your header until you need it",
+  "keywords": [
+    "header",
+    "js",
+    "scroll"
+  ],
+  "license": "MIT",
+  "_release": "0.9.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.9.5",
+    "commit": "ccbb5c4735f7ab3f01df6c104845b71689dde35a"
+  },
+  "_source": "https://github.com/danielfeelfine/headroom.js.git",
+  "_target": "^0.9.5",
+  "_originalSource": "headroom-bower"
+}
